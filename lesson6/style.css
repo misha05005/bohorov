@@ -1,0 +1,50 @@
+.header{
+    display: block;
+    text-align: center;
+    background-color: seagreen;
+    color: white;
+    font-size: 21px;
+    margin-bottom: 5px;
+}
+.services h2 {
+    text-align: center;
+}
+.services ol {
+    display: block;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.contacts{
+    display: block;
+    background-color: red;
+    color: white; 
+    text-align: center;
+    padding: 3px;
+}
+.company h2{
+    text-align: center;
+}
+.company p {
+    display: block;
+    padding: 0 250px 0 250px;
+}
+.clients h2{
+    text-align: center;
+}
+.clients{
+    background-color: orangered;
+}
+.clients table{
+    display: block;
+    padding: 0 230px 0 230px;
+}
+.footer {
+    background: #912F00;
+    padding:80px;
+    color: white;
+}
+.footer h5 {
+   text-align: center;
+   padding: 100px 0 0 0 ;
+}
+
