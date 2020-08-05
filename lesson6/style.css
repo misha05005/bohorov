@@ -30,13 +30,15 @@
 }
 .clients h2{
     text-align: center;
+    padding: auto;
+    margin: auto;
 }
 .clients{
     background-color: orangered;
 }
 .clients table{
     display: block;
-    padding: 0 230px 0 230px;
+    padding: 0 250px 0 250px;
 }
 .footer {
     background: #912F00;

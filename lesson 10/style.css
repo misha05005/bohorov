@@ -1,0 +1,90 @@
+.body {
+    font-family: 'open_sansregular';
+    font-family: 'open_sanssemibold';
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.bg_img {
+    background-image: url(img/bg.png);
+    display: block;
+    width: 100%;
+    height: 580px;
+    background-size: 100%;
+}
+.content {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    padding: 100px;
+}
+.content p {
+    font-size: 24px;
+}
+button {
+    border: 3px;
+    width: 150px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #a0c700;
+    color: white;
+}
+.bolock1 {
+    text-align: center;
+    padding-top: 100px;
+}
+.bolock1 h2 {
+    text-transform: uppercase;
+}
+.bolock1 p {
+    padding: 0 170px;
+}
+.block2 {
+    display: block;
+    width: 100%;
+    height: 300px;
+}
+li {
+    display: inline;
+    list-style: none;
+    float: left;
+    padding: 15px;
+    font-size: 35px;
+    position: relative;
+    top: 19px;
+    left: 20%;
+}
+a {
+    margin: 20px;
+    text-decoration: none;
+    color: black;
+    background: #8e8e8e;
+    border: 1px solid #8e8e8e;
+    padding: 5px 16px;
+    border-radius: 50px;
+}
+#individ {
+    background-color: chartreuse;
+    z-index: 10;
+    border: 1px solid chartreuse;
+}
+.block2>img {
+    position: relative;
+    top: 145px;
+    right: 450px;
+}
+#individ2 {
+    position: relative;
+    left: 50%;
+    bottom: 3%;
+    color: #82d600;
+}
+#individ3 {
+    position: relative;
+}
+#individ3 {
+    position: relative;
+    width: 420px;
+    left: 47%;
+}
