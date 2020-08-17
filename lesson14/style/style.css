@@ -1,0 +1,73 @@
+ body {
+    width: 1440px;
+    height: 670px;
+    padding: 0 15px;
+    margin: 0 auto; 
+    font-family: monospace;
+ }
+
+ /*Главная ндапись*/
+ .logo {
+    height: 75px;
+    width: 460px;
+    display: block;
+    position: absolute;
+    text-align: center;
+    left: 500px;
+    margin-top: 130px;
+ }
+ .logo>h4 {
+     color:#ff2626ed;
+     font-size: 14px;
+   ;
+ }
+.logo>header {
+    color: black;
+    font-size: 34px;
+}
+
+/*три блока*/
+
+.photo1 {
+    display: block;
+    position: relative;
+    left: 100px;
+}
+.photo2 {
+    display: block;
+    position: relative;
+    left: 1100px;
+    bottom: 330px;
+}
+.banner {
+    display: flex;
+    margin: 0 150px 0 150px;
+    position: relative;
+    bottom: 250px;
+    text-align: center;
+}
+.banner__item {
+    width: 350px;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+
+/*Подвал*/
+.footer {
+    display: block;
+    position: relative;
+    bottom: 200px;
+    left: 1050px;
+}
+
+
+@font-face {
+    
+    font-family: "exoblack"; 
+    src: url("../fonts/exo.css") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    
+} 
+
