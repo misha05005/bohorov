@@ -1,0 +1,190 @@
+body {
+    margin: 0;
+    padding: 0%;
+}
+.menu {
+    display: block;
+    width: 100%;
+    height: 1440px;
+    background-image: url(../img/logo/Hills.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 50px;
+}
+.menu_item {
+    display: block;
+    height: 168px;
+    width: 2500px;
+    position: relative;
+    left: 15%;
+}
+.menu_item>a {
+    font-size: 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 40px;
+    color: #000;
+}
+.menu_item>img {
+    width: 350px;
+    margin-right: 350px;
+    margin-bottom: -35px;
+}
+.photo_logo>img {
+    width: 2500px;
+    display: flex;
+    left: 1510px;
+    position: relative;
+    margin-top: -1025px;
+}
+.logo_item {
+    display: block;
+    position: relative;
+    left: 300px;
+    font-size: 50px;
+    width: 750px;
+    margin-top: 300px;
+    text-transform: uppercase;
+    top: -200px;
+}
+.logo_item>h3{
+    position: relative;
+    top: 261px;
+}
+
+.logo_item>h3{
+    margin: 0;
+}
+.shadow {
+    width: 200px;
+    display: block;
+    position: relative;
+    left: 1600px;
+    top: 1200px;
+}
+.logo_item>button {
+    width: 400px;
+    height: 110px;
+    font-size: 30px;
+    text-transform: uppercase;
+    background-color: #000;
+    color: white;
+}
+.logo_item>img {
+    width: 100px;
+    position: absolute;
+    left: 650px;
+    top: 250px;
+}
+#butterfly {
+    width: 100px;
+    position: relative;
+    top: 125px;
+    left: -55px;
+}
+.blok2 {
+    display: flex;
+    width: 100%;
+    height: 1440px;
+    position: relative;
+    top: -128px;
+}
+.container_blok2 {
+    font-size: 46px;
+    text-transform: capitalize;
+    width: 942px;
+    padding: 100px;
+}
+.container_blok2>ul>li {
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 72px;
+    text-transform: uppercase;
+    margin: -21px;
+}
+
+/*carusel*/
+.carusel {
+    display: flex;
+    width: 1400px;
+    position: relative;
+    margin: 100px;
+}
+.carusel_element {
+    width: 460px;
+    position: relative;
+    top: 450px;
+}
+.blok3{
+    display: block;
+    width: 100%;
+    height: 350px;
+}
+.blok3>img{
+    display: block;
+    width: 100%;
+    height:600px;
+}
+.blok3_item3 {
+    font-size: 45px;
+    display: block;
+    width: 1500px;
+    text-align: center;
+    position: relative;
+    left: 30%;
+    top: -500px;
+    color: #f1f1f1;
+    text-transform: uppercase;
+}
+.blok4{
+    display: block;
+    width: 100%;
+    height: 800px;
+}
+.blok4>img {
+    width: 1600px;
+    display: flex;
+    float: left;
+}
+.blok4_item {
+    display: block;
+    font-size: 60px;
+    position: relative;
+    top: 300px;
+    text-transform: capitalize;
+}
+.blok4_item>button {
+    width: 400px;
+    height: 110px;
+    font-size: 30px;
+    text-transform: uppercase;
+    background-color: #000;
+    color: white;
+}
+.footer {
+    display: block;
+    width: 100%;
+    height: 300px;
+    font-size: 60px;
+    position: relative;
+    top: 400px;
+    left: -360px;
+}
+#footer_item_logo {
+    width: 250px;
+    position: relative;
+    left: -500px;
+}
+.footer_item_element>a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 50px;
+    position: relative;
+    color: black;
+    top: -90px;
+    margin-left: 34px;
+}
+#color{
+    color:grey;
+    z-index: 1;
+}
